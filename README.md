@@ -15,6 +15,10 @@ Boost::GIL in qtGUI
 
 - Qt classes are licensed under LGPL (with contributions under different licenses), [reference](http://doc.qt.io/qt-5/licensing.html)
 
+**Legal**
+
 - This work is licensed under MIT License
 
 - Qt LGPL License does not affect this work since it is a dependency, unmodified & not part of this work
+
+- This work is an extention to qtGUI not a derivative of it
